@@ -61,7 +61,6 @@ Interview Expert provides a simple yet effective platform for interview preparat
 - Interview preparation resources (general)  
 - Online coding platforms  
 - Python documentation  
-- (Add any specific sources if you used)
-  
+
 #  Author
 Nikita Selokar
